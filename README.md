@@ -1,4 +1,4 @@
-# こんにちは！👋 Yuu です
+# こんにちは！👋 ゆうです
 
 **Web / フロントエンドエンジニア** | 武蔵野大学 データサイエンス学部（2028年卒業予定）
 
@@ -14,7 +14,7 @@
 
 - 🏫 武蔵野大学 データサイエンス学部 データサイエンス学科 2年
 - 📍 東京都在住（京都府出身）
-- 💻 MUDS 6期生 / Boh Project 所属
+- 💻 MUDS 6期生 / Boh PJ 所属
 - 🎯 Web・フロントエンド開発に注力中
 - ⚾ 趣味：プログラミング、ゲーム、野球観戦
 
@@ -44,8 +44,6 @@
 ### ⏱️ コーディング時間（WakaTime）
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-> ⚠️ WakaTimeを有効にするには、[WakaTime](https://wakatime.com/)のアカウント作成と[waka-readme](https://github.com/athul/waka-readme)の設定が必要です。
 
 ---
 
