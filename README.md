@@ -43,6 +43,38 @@
 
 ### ⏱️ コーディング時間（WakaTime）
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/02/2026 16:07:47 UTC
 <!--END_SECTION:waka-->
 
 ---
