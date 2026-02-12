@@ -1,14 +1,11 @@
 # こんにちは！👋 ゆうです
 
-**Web / フロントエンドエンジニア** | 武蔵野大学 データサイエンス学部（2028年卒業予定）
+武蔵野大学 データサイエンス学部 2年生（2024年入学）
 
-<p align="left">
-  <a href="https://twitter.com/Yuu_s0413">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+## About Me
 
----
+推しと美味い飯とプログラミングの間で生きてる
+💙→👾💤/🐧🎴/🥗
 
 ## 🎓 自己紹介
 
@@ -34,8 +31,8 @@
 ## 📊 GitHub 統計
 
 <p align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Yuu0413s&count_private=true&show_icons=true&theme=default&locale=ja" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu0413s&layout=compact&count_private=true&theme=default&locale=ja" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Yuu0413s&include_all_commits=true&show_icons=true&theme=default&locale=ja&cache_seconds=1800" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu0413s&layout=compact&include_all_commits=true&theme=default&locale=ja&cache_seconds=1800" />
 </p>
 
 ### 🌱 コントリビューション
@@ -45,26 +42,26 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 🏆 46 Contributions in the Year 2026
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I Mostly Code in TypeScript** 
+ >
+> 📜 8 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 %
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Dockerfile               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 
