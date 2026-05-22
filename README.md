@@ -13,3 +13,7 @@ Twitter→@Yuu_s0413
 
 ## 学習中のスキル:
 [![Skills](https://skillicons.dev/icons?i=python,html,css,react,javascript)](https://skillicons.dev)
+
+## 📊 今週のコーディング統計:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
