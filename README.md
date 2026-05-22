@@ -68,14 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuu0413s&show_icons=true&theme=tokyonight&locale=ja)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu0413s&layout=compact&theme=tokyonight&locale=ja)
-
----
-
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
