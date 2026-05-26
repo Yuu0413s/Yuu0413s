@@ -1,6 +1,6 @@
-# 柴田 優太 (Yuta Shibata) 👋
+# Yuu0413s
 
-> エンジニア志望 | データサイエンス × Web 開発
+> エンジニア志望 | Data Science × Web Develop
 
 ---
 
