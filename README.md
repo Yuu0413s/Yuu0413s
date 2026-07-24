@@ -80,8 +80,6 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -96,52 +94,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-🌆 Daytime                6626 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-🌃 Evening                5024 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌙 Night                  7549 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2431 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Tuesday                  2128 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Wednesday                3980 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Thursday                 7894 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
-Friday                   3368 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Saturday                 1442 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Sunday                   537 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-HTML                     34 mins             █████████░░░░░░░░░░░░░░░░   37.70 % 
-JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-
-🔥 Editors: 
-VS Code                  1 hr 22 mins        ███████████████████████░░   90.42 % 
-Claude Code              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-
-🐱‍💻 Projects: 
-MD2                      1 hr 2 mins         █████████████████░░░░░░░░   68.56 % 
-Lec05                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-情報経済特論                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-
-💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -159,7 +111,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 16:46:50 UTC
+ Last Updated on 24/07/2026 16:51:38 UTC
 <!--END_SECTION:waka-->
 
 ---
