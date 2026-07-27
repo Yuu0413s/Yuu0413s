@@ -80,7 +80,9 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,31 +90,31 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 800 Contributions in the Year 2026
+> 🏆 807 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2685 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-🌆 Daytime                6806 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌃 Evening                5132 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-🌙 Night                  7783 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌞 Morning                2698 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌆 Daytime                6810 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌃 Evening                5145 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌙 Night                  7786 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Tuesday                  2168 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Wednesday                4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Thursday                 8102 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
-Friday                   3468 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Saturday                 1600 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Monday                   2495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Tuesday                  2171 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Wednesday                4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 8102 commits        █████████░░░░░░░░░░░░░░░░   36.11 % 
+Friday                   3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 1601 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 Sunday                   551 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
@@ -138,6 +140,28 @@ new-chat                 0 secs              ░░░░░░░░░░░�
 Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 0 secs (1.08%)
+
+✍️ 0 lines written by AI, 249 lines written by hand (0.0% AI-written)
+
+🔤 755,668 Input Tokens, 14,304 Output Tokens
+
+💵 $4.21 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 20 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -155,7 +179,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 16:09:50 UTC
+ Last Updated on 27/07/2026 17:09:10 UTC
 <!--END_SECTION:waka-->
 
 ---
