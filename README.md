@@ -195,4 +195,4 @@ HTML                     1 repo              █░░░░░░░░░░�
 ## 🔗 リンク
 
 - 🌐 **ポートフォリオ**：[yuu0413.com](https://yuu0413.com)
-- 🐦 **Twitter/X**：[@Yuu_s0413](https://twitter.com/Yuu_s0413)
+- 🐦 **Twitter/X**：[@Yuu_s0413](https://twitter.com/Yuu0413_s)
