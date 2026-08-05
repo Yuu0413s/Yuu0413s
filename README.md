@@ -83,9 +83,9 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
 
@@ -106,15 +106,15 @@
 ```text
 🌞 Morning                3168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 🌆 Daytime                6952 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌃 Evening                5421 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌙 Night                  8001 commits        ████████░░░░░░░░░░░░░░░░░   33.99 % 
+🌃 Evening                5422 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌙 Night                  8001 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2297 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 Tuesday                  2547 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Wednesday                4301 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Wednesday                4302 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 Thursday                 8382 commits        █████████░░░░░░░░░░░░░░░░   35.60 % 
 Friday                   3767 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Saturday                 1697 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
@@ -128,59 +128,59 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
-TypeScript               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.30 % 
-JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Git Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 10 hrs 18 mins      ███████████░░░░░░░░░░░░░░   44.24 % 
+TypeScript               7 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 45 mins      █████████████████████░░░░   84.47 % 
-VS Code                  2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Claude Code              19 hrs 20 mins      █████████████████████░░░░   83.02 % 
+VS Code                  3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 🐱‍💻 Projects: 
-Tsumori                  14 hrs 15 mins      ███████████████████░░░░░░   76.44 % 
-introduction-web-page    3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-paper                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-task-checker             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-portfolio                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Tsumori                  12 hrs 44 mins      ██████████████░░░░░░░░░░░   54.71 % 
+job-hunt-management      5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+introduction-web-page    4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+paper                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+portfolio                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      18 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 6 mins (97.12%)
+⏱ AI Coding Time: 22 hrs 46 mins (97.79%)
 
-✍️ 15,599 lines written by AI, 10 lines written by hand (99.94% AI-written)
+✍️ 18,137 lines written by AI, 9 lines written by hand (99.95% AI-written)
 
-🔤 359,889,063 Input Tokens, 1,548,035 Output Tokens
+🔤 413,099,386 Input Tokens, 1,884,631 Output Tokens
 
-💵 $1138.90 Estimated AI Cost This Week
+💵 $1306.31 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 318 AI Prompts
+🧠 86 AI Sessions, 406 AI Prompts
 
-Sonnet                   15,716 lines        █████████████████████████   100.00 % 
+Sonnet                   18,252 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 1,502 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 1,724 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-Dockerfile               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+Dockerfile               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -190,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 17:03:18 UTC
+ Last Updated on 05/08/2026 16:50:46 UTC
 <!--END_SECTION:waka-->
 
 ---
