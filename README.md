@@ -128,49 +128,49 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.50 % 
-TypeScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Markdown                 3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.39 % 
+TypeScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 14 mins       ███████████████████░░░░░░   77.00 % 
-VS Code                  1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Claude Code              5 hrs 51 mins       ███████████████████░░░░░░   77.13 % 
+VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
 
 🐱‍💻 Projects: 
-job-hunt-management      5 hrs 35 mins       █████████████████░░░░░░░░   68.90 % 
-introduction-web-page    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Tsumori                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-paper                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-portfolio                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+job-hunt-management      5 hrs 35 mins       ██████████████████░░░░░░░   73.65 % 
+Tsumori                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+introduction-web-page    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+paper                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+yuu0413                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 48 mins (96.29%)
+⏱ AI Coding Time: 7 hrs 19 mins (96.4%)
 
-✍️ 4,797 lines written by AI, 5 lines written by hand (99.9% AI-written)
+✍️ 4,764 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 101,980,179 Input Tokens, 607,577 Output Tokens
+🔤 98,519,830 Input Tokens, 576,714 Output Tokens
 
-💵 $527.49 Estimated AI Cost This Week
+💵 $520.89 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 159 AI Prompts
+🧠 34 AI Sessions, 138 AI Prompts
 
-Sonnet                   4,827 lines         █████████████████████████   100.00 % 
+Sonnet                   4,794 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 2,011 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,195 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 15:38:39 UTC
+ Last Updated on 09/08/2026 15:40:55 UTC
 <!--END_SECTION:waka-->
 
 ---
