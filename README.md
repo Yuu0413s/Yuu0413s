@@ -128,31 +128,31 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.39 % 
-TypeScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Markdown                 3 hrs 44 mins       █████████████░░░░░░░░░░░░   51.03 % 
+TypeScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 51 mins       ███████████████████░░░░░░   77.13 % 
-VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Claude Code              5 hrs 51 mins       ████████████████████░░░░░   79.70 % 
+VS Code                  1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🐱‍💻 Projects: 
-job-hunt-management      5 hrs 35 mins       ██████████████████░░░░░░░   73.65 % 
-Tsumori                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-introduction-web-page    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-paper                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+job-hunt-management      5 hrs 35 mins       ███████████████████░░░░░░   76.11 % 
+Tsumori                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+introduction-web-page    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+paper                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 yuu0413                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (96.4%)
+⏱ AI Coding Time: 7 hrs 19 mins (99.61%)
 
 ✍️ 4,764 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -190,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 16:10:19 UTC
+ Last Updated on 11/08/2026 16:09:59 UTC
 <!--END_SECTION:waka-->
 
 ---
