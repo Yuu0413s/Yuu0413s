@@ -87,7 +87,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,47 +128,47 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ████████████████░░░░░░░░░   63.31 % 
-Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+JavaScript               1 hr 32 mins        ███████████████░░░░░░░░░░   61.12 % 
+Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Claude Code              1 hr 50 mins        ███████████████████░░░░░░   75.64 % 
-VS Code                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Claude Code              1 hr 54 mins        ███████████████████░░░░░░   75.63 % 
+VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 🐱‍💻 Projects: 
-seminar-1on1-GAS         2 hrs 11 mins       ██████████████████████░░░   89.91 % 
-job-hunt-management      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+seminar-1on1-GAS         2 hrs 11 mins       ██████████████████████░░░   86.81 % 
+job-hunt-management      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (94.05%)
+⏱ AI Coding Time: 2 hrs 22 mins (94.25%)
 
-✍️ 1,126 lines written by AI, 11 lines written by hand (99.03% AI-written)
+✍️ 1,177 lines written by AI, 11 lines written by hand (99.07% AI-written)
 
-🔤 536,156 Input Tokens, 187,565 Output Tokens
+🔤 666,173 Input Tokens, 203,414 Output Tokens
 
-💵 $11.47 Estimated AI Cost This Week
+💵 $12.60 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 39 AI Prompts
+🧠 6 AI Sessions, 41 AI Prompts
 
-Sonnet                   1,143 lines         █████████████████████████   100.00 % 
+Sonnet                   1,194 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.03% of written lines came from AI
-📄 Detailed Prompter — average 1,236 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.64% of changed lines were hand-edited
+🤖 AI-Driven — 99.07% of written lines came from AI
+📄 Detailed Prompter — average 1,178 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -188,7 +188,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 15:31:25 UTC
+ Last Updated on 18/08/2026 15:41:39 UTC
 <!--END_SECTION:waka-->
 
 ---
