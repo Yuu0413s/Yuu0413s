@@ -83,9 +83,9 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -128,29 +128,30 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ███████████████░░░░░░░░░░   61.12 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+JavaScript               1 hr 33 mins        ███████████████░░░░░░░░░░   61.43 % 
+Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Claude Code              1 hr 54 mins        ███████████████████░░░░░░   75.63 % 
-VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Claude Code              1 hr 55 mins        ███████████████████░░░░░░   75.82 % 
+VS Code                  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🐱‍💻 Projects: 
-seminar-1on1-GAS         2 hrs 11 mins       ██████████████████████░░░   86.81 % 
-job-hunt-management      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+seminar-1on1-GAS         2 hrs 11 mins       ██████████████████████░░░   86.12 % 
+job-hunt-management      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+react                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (94.25%)
+⏱ AI Coding Time: 2 hrs 23 mins (94.3%)
 
 ✍️ 1,177 lines written by AI, 11 lines written by hand (99.07% AI-written)
 
@@ -158,7 +159,7 @@ Mac                      2 hrs 31 mins       ███████████�
 
 💵 $12.60 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 41 AI Prompts
+🧠 7 AI Sessions, 43 AI Prompts
 
 Sonnet                   1,194 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -166,8 +167,8 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.07% of written lines came from AI
-📄 Detailed Prompter — average 1,178 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,124 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
@@ -188,7 +189,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 15:41:39 UTC
+ Last Updated on 19/08/2026 15:43:20 UTC
 <!--END_SECTION:waka-->
 
 ---
