@@ -128,45 +128,44 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               17 mins             ██████████████████░░░░░░░   70.42 % 
-SQL                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+SQL                      3 mins              █████████░░░░░░░░░░░░░░░░   36.31 % 
+TypeScript               3 mins              ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Claude Code              22 mins             ███████████████████████░░   90.27 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Claude Code              8 mins              ████████████████████░░░░░   81.77 % 
+VS Code                  1 min               █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 
 🐱‍💻 Projects: 
-job-hunt-management      23 mins             ███████████████████████░░   92.83 % 
-react                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-obsidian                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+job-hunt-management      8 mins              █████████████████████░░░░   82.70 % 
+react                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+obsidian                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (97.61%)
+⏱ AI Coding Time: 9 mins (94.24%)
 
-✍️ 110 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 194,668 Input Tokens, 39,353 Output Tokens
+🔤 130,699 Input Tokens, 17,072 Output Tokens
 
-💵 $2.74 Estimated AI Cost This Week
+💵 $1.18 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Sonnet                   110 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   51 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 528 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 53 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -187,7 +186,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 15:44:04 UTC
+ Last Updated on 21/08/2026 15:44:54 UTC
 <!--END_SECTION:waka-->
 
 ---
