@@ -128,29 +128,27 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-SQL                      3 mins              █████████░░░░░░░░░░░░░░░░   36.31 % 
-TypeScript               3 mins              ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+SQL                      3 mins              ██████████░░░░░░░░░░░░░░░   38.53 % 
+TypeScript               3 mins              █████████░░░░░░░░░░░░░░░░   35.99 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🔥 Editors: 
-Claude Code              8 mins              ████████████████████░░░░░   81.77 % 
-VS Code                  1 min               █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Claude Code              8 mins              ██████████████████████░░░   86.76 % 
+VS Code                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 
 🐱‍💻 Projects: 
-job-hunt-management      8 mins              █████████████████████░░░░   82.70 % 
-react                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-obsidian                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+job-hunt-management      8 mins              ██████████████████████░░░   87.76 % 
+react                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (94.24%)
+⏱ AI Coding Time: 9 mins (100.0%)
 
 ✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -186,7 +184,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 15:44:54 UTC
+ Last Updated on 22/08/2026 15:32:17 UTC
 <!--END_SECTION:waka-->
 
 ---
