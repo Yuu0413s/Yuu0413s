@@ -87,7 +87,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,16 +128,20 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              ████████████░░░░░░░░░░░░░   49.32 % 
+HTML                     4 mins              ████████████░░░░░░░░░░░░░   49.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+track-tutorials          8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -163,7 +167,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 16:27:50 UTC
+ Last Updated on 28/08/2026 00:25:45 UTC
 <!--END_SECTION:waka-->
 
 ---
