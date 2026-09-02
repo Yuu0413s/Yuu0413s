@@ -153,11 +153,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Dockerfile               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Dockerfile               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -167,7 +167,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 18:23:01 UTC
+ Last Updated on 02/09/2026 18:36:46 UTC
 <!--END_SECTION:waka-->
 
 ---
