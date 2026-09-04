@@ -128,32 +128,30 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      8 mins              █████████░░░░░░░░░░░░░░░░   36.30 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-JavaScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-HTML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+TeX                      8 mins              ██████████████░░░░░░░░░░░   57.51 % 
+Markdown                 5 mins              ██████████░░░░░░░░░░░░░░░   38.35 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  23 mins             ████████████████████████░   97.43 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+VS Code                  14 mins             ████████████████████████░   95.93 % 
+Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🐱‍💻 Projects: 
-track-tutorials          8 mins              █████████░░░░░░░░░░░░░░░░   36.88 % 
-jp-draft                 8 mins              █████████░░░░░░░░░░░░░░░░   36.30 % 
-know-your-meals          5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-dotfiles                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+jp-draft                 8 mins              ██████████████░░░░░░░░░░░   57.51 % 
+know-your-meals          5 mins              ██████████░░░░░░░░░░░░░░░   38.43 % 
+dotfiles                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (2.57%)
+⏱ AI Coding Time: 0 secs (4.07%)
 
-✍️ 0 lines written by AI, 22 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
 🔤 28,407 Input Tokens, 2,407 Output Tokens
 
@@ -187,7 +185,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 18:32:20 UTC
+ Last Updated on 04/09/2026 18:18:51 UTC
 <!--END_SECTION:waka-->
 
 ---
