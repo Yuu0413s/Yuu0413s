@@ -83,9 +83,9 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -128,44 +128,49 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      8 mins              ██████████████░░░░░░░░░░░   57.51 % 
-Markdown                 5 mins              ██████████░░░░░░░░░░░░░░░   38.35 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               44 mins             ████████████████░░░░░░░░░   63.35 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+TeX                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  14 mins             ████████████████████████░   95.93 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Claude Code              51 mins             ██████████████████░░░░░░░   73.46 % 
+VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🐱‍💻 Projects: 
-jp-draft                 8 mins              ██████████████░░░░░░░░░░░   57.51 % 
-know-your-meals          5 mins              ██████████░░░░░░░░░░░░░░░   38.43 % 
-dotfiles                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Tsumori                  55 mins             ████████████████████░░░░░   78.80 % 
+jp-draft                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+know-your-meals          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (4.07%)
+⏱ AI Coding Time: 56 mins (79.66%)
 
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
+✍️ 630 lines written by AI, 5 lines written by hand (99.21% AI-written)
 
-🔤 28,407 Input Tokens, 2,407 Output Tokens
+🔤 238,427 Input Tokens, 83,894 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $6.51 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   644 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 784 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.21% of written lines came from AI
+📚 Verbose Prompter — average 1,812 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -185,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 18:18:51 UTC
+ Last Updated on 05/09/2026 17:18:50 UTC
 <!--END_SECTION:waka-->
 
 ---
