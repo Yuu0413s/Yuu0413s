@@ -87,7 +87,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -190,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 17:18:50 UTC
+ Last Updated on 06/09/2026 17:39:18 UTC
 <!--END_SECTION:waka-->
 
 ---
