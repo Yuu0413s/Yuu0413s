@@ -93,7 +93,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,136 Contributions in the Year 2026
+> 🏆 1,147 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-🌆 Daytime                7075 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-🌃 Evening                5493 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-🌙 Night                  8046 commits        ████████░░░░░░░░░░░░░░░░░   33.69 % 
+🌞 Morning                3326 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+🌆 Daytime                7177 commits        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌃 Evening                5606 commits        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+🌙 Night                  8052 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2304 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Tuesday                  2628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Wednesday                4394 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Thursday                 8436 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
-Friday                   3875 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Saturday                 1697 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Sunday                   551 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Monday                   2364 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Tuesday                  2634 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Wednesday                4436 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Thursday                 8541 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+Friday                   3920 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Saturday                 1700 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sunday                   566 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 
@@ -128,31 +128,30 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               44 mins             ████████████████░░░░░░░░░   63.35 % 
-Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-TeX                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               44 mins             █████████████████░░░░░░░░   68.97 % 
+TeX                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Claude Code              51 mins             ██████████████████░░░░░░░   73.46 % 
-VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Claude Code              51 mins             ████████████████████░░░░░   79.97 % 
+VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Codex Vscode             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🐱‍💻 Projects: 
-Tsumori                  55 mins             ████████████████████░░░░░   78.80 % 
-jp-draft                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-know-your-meals          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Tsumori                  55 mins             █████████████████████░░░░   85.79 % 
+jp-draft                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (79.66%)
+⏱ AI Coding Time: 56 mins (86.72%)
 
 ✍️ 630 lines written by AI, 5 lines written by hand (99.21% AI-written)
 
@@ -190,7 +189,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 17:39:18 UTC
+ Last Updated on 07/09/2026 19:09:26 UTC
 <!--END_SECTION:waka-->
 
 ---
