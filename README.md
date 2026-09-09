@@ -128,23 +128,22 @@ Sunday                   566 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ████████████████░░░░░░░░░   63.29 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-TeX                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+TypeScript               2 hrs 15 mins       ████████████████░░░░░░░░░   63.46 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+TeX                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.04 % 
-Codex Vscode             47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-VS Code                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Claude Code              2 hrs 1 min         ██████████████░░░░░░░░░░░   56.92 % 
+Codex Vscode             47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+VS Code                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 
 🐱‍💻 Projects: 
-portfolio                1 hr 48 mins        █████████████░░░░░░░░░░░░   50.61 % 
-Tsumori                  1 hr 34 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
-jp-draft                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+portfolio                1 hr 48 mins        █████████████░░░░░░░░░░░░   50.75 % 
+Tsumori                  1 hr 34 mins        ███████████░░░░░░░░░░░░░░   44.37 % 
+jp-draft                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
 Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
@@ -153,15 +152,15 @@ Mac                      3 hrs 33 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (87.71%)
+⏱ AI Coding Time: 3 hrs 7 mins (87.67%)
 
 ✍️ 1,359 lines written by AI, 46 lines written by hand (96.73% AI-written)
 
-🔤 858,227 Input Tokens, 253,705 Output Tokens
+🔤 829,820 Input Tokens, 251,298 Output Tokens
 
-💵 $24.96 Estimated AI Cost This Week
+💵 $24.94 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 50 AI Prompts
+🧠 8 AI Sessions, 49 AI Prompts
 
 Sonnet                   1,356 lines         ██████████████████████░░░   88.69 % 
 GPT                      173 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
@@ -169,7 +168,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.73% of written lines came from AI
-📄 Detailed Prompter — average 1,360 characters per prompt
+📄 Detailed Prompter — average 1,371 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 3.04% of changed lines were hand-edited
 ```
@@ -191,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 18:31:20 UTC
+ Last Updated on 09/09/2026 18:30:33 UTC
 <!--END_SECTION:waka-->
 
 ---
