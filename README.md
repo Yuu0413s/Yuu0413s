@@ -128,51 +128,51 @@ Sunday                   566 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
-Other                    59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-CSV                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   35.10 % 
+Other                    59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Python                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+CSV                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 5 mins        ██████████████░░░░░░░░░░░   54.59 % 
-Codex Vscode             1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-VS Code                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Claude Code              1 hr 54 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
+Codex Vscode             1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+VS Code                  56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🐱‍💻 Projects: 
-Tsumori                  1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
-portfolio                1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
-analysis                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-new-chat-2               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+portfolio                1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   41.83 % 
+analysis                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+new-chat-2               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Tsumori                  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (93.39%)
+⏱ AI Coding Time: 3 hrs 56 mins (91.34%)
 
-✍️ 1,844 lines written by AI, 41 lines written by hand (97.82% AI-written)
+✍️ 729 lines written by AI, 41 lines written by hand (94.68% AI-written)
 
-🔤 1,756,871 Input Tokens, 444,268 Output Tokens
+🔤 1,246,866 Input Tokens, 273,522 Output Tokens
 
-💵 $50.75 Estimated AI Cost This Week
+💵 $35.43 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 87 AI Prompts
+🧠 8 AI Sessions, 69 AI Prompts
 
-Sonnet                   1,983 lines         ███████████████████████░░   91.98 % 
-GPT                      173 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Sonnet                   712 lines           ████████████████████░░░░░   80.45 % 
+GPT                      173 lines           █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.82% of written lines came from AI
-📄 Detailed Prompter — average 1,218 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.91% of changed lines were hand-edited
+🤖 AI-Driven — 94.68% of written lines came from AI
+📄 Detailed Prompter — average 1,109 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 4.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -192,7 +192,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 18:25:15 UTC
+ Last Updated on 12/09/2026 17:50:30 UTC
 <!--END_SECTION:waka-->
 
 ---
