@@ -87,7 +87,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -128,49 +128,49 @@ Sunday                   566 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 43 mins       █████████████████░░░░░░░░   69.76 % 
-Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-CSV                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-TeX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python                   1 hr 5 mins         ███████████████░░░░░░░░░░   61.77 % 
+Other                    32 mins             ████████░░░░░░░░░░░░░░░░░   30.83 % 
+TeX                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 34 mins       ████████████████░░░░░░░░░   65.95 % 
-Codex Vscode             57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Claude Code              1 hr 6 mins         ████████████████░░░░░░░░░   62.36 % 
+Codex Vscode             32 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🐱‍💻 Projects: 
-analysis                 2 hrs 59 mins       ███████████████████░░░░░░   76.34 % 
-new-chat-2               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-paper                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-20260921                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-conventions              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+analysis                 1 hr 3 mins         ███████████████░░░░░░░░░░   60.01 % 
+new-chat-2               29 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+paper                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+20260921                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+scai2026                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (95.17%)
+⏱ AI Coding Time: 1 hr 42 mins (96.55%)
 
-✍️ 9,677 lines written by AI, 6 lines written by hand (99.94% AI-written)
+✍️ 4,476 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,545,571 Input Tokens, 322,765 Output Tokens
+🔤 788,344 Input Tokens, 190,657 Output Tokens
 
-💵 $67.21 Estimated AI Cost This Week
+💵 $34.56 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 39 AI Prompts
+🧠 4 AI Sessions, 23 AI Prompts
 
-Opus                     7,255 lines         ███████████████████░░░░░░   74.93 % 
-GPT                      2,428 lines         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+GPT                      2,428 lines         ██████████████░░░░░░░░░░░   54.21 % 
+Opus                     2,051 lines         ███████████░░░░░░░░░░░░░░   45.79 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 1,529 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 896 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 18:44:23 UTC
+ Last Updated on 23/09/2026 19:03:17 UTC
 <!--END_SECTION:waka-->
 
 ---
