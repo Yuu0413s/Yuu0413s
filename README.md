@@ -128,50 +128,51 @@ Sunday                   566 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Bash                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-SQL                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Other                    2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Bash                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+SQL                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 24 mins       ██████████████░░░░░░░░░░░   57.79 % 
-VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Codex Vscode             1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Claude Code              4 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.91 % 
+Codex Vscode             2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+VS Code                  2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 
 🐱‍💻 Projects: 
-Facility-Management      3 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.21 % 
-analysis                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-todo-app                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-conventions              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-private                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Facility-Management      3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
+analysis                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+iiai-aai-2026-scai2026-wi1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+todo-app                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+conventions              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Mac                      7 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 44 mins (88.58%)
+⏱ AI Coding Time: 7 hrs 46 mins (87.93%)
 
-✍️ 3,473 lines written by AI, 116 lines written by hand (96.77% AI-written)
+✍️ 3,473 lines written by AI, 124 lines written by hand (96.55% AI-written)
 
-🔤 3,103,097 Input Tokens, 593,371 Output Tokens
+🔤 4,041,603 Input Tokens, 652,534 Output Tokens
 
-💵 $114.55 Estimated AI Cost This Week
+💵 $111.97 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 96 AI Prompts
+🧠 12 AI Sessions, 116 AI Prompts
 
 Opus                     3,499 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.77% of written lines came from AI
-📄 Detailed Prompter — average 787 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 3.21% of changed lines were hand-edited
+🤖 AI-Driven — 96.55% of written lines came from AI
+📄 Detailed Prompter — average 715 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,7 +192,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 21:16:29 UTC
+ Last Updated on 29/09/2026 20:01:52 UTC
 <!--END_SECTION:waka-->
 
 ---
