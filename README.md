@@ -83,9 +83,9 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,9 +104,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+🌞 Morning                3424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 🌆 Daytime                7539 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
-🌃 Evening                5679 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌃 Evening                5679 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   32.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -114,7 +114,7 @@
 ```text
 Monday                   2575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 Tuesday                  2642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Wednesday                4579 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Wednesday                4581 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
 Thursday                 8545 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
 Friday                   3924 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 Saturday                 1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
@@ -128,49 +128,49 @@ Sunday                   567 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Other                    2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Python                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-TeX                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JavaScript               4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.40 % 
+Other                    2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+TeX                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.28 % 
-Claude Code              2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Codex Vscode             2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+VS Code                  5 hrs 39 mins       ███████████████░░░░░░░░░░   59.02 % 
+Claude Code              2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Codex Vscode             1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
 
 🐱‍💻 Projects: 
-note-app                 2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-new-chat-2               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-new-chat                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-専門デプロイメントⅢ             56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-todo-app                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+note-app                 3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
+専門デプロイメントⅢ             56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+new-chat-2               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+new-chat                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+week02                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 💻 Operating System: 
-Mac                      10 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 29 mins (53.32%)
+⏱ AI Coding Time: 4 hrs 2 mins (42.08%)
 
-✍️ 3,413 lines written by AI, 239 lines written by hand (93.46% AI-written)
+✍️ 2,428 lines written by AI, 343 lines written by hand (87.62% AI-written)
 
-🔤 2,303,059 Input Tokens, 398,876 Output Tokens
+🔤 1,727,420 Input Tokens, 303,545 Output Tokens
 
-💵 $31.06 Estimated AI Cost This Week
+💵 $24.49 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 69 AI Prompts
+🧠 19 AI Sessions, 49 AI Prompts
 
-Opus                     3,440 lines         ███████████████████████░░   93.45 % 
-GPT                      241 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Opus                     2,362 lines         ████████████████████████░   95.59 % 
+GPT                      109 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.46% of written lines came from AI
-📄 Detailed Prompter — average 860 characters per prompt
+🤖 AI-Driven — 87.62% of written lines came from AI
+📝 Concise Prompter — average 164 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 12.06% of changed lines were hand-edited
+🚀 High AI Trust — 16.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 19:18:19 UTC
+ Last Updated on 11/10/2026 19:32:10 UTC
 <!--END_SECTION:waka-->
 
 ---
