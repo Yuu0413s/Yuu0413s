@@ -93,7 +93,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,194 Contributions in the Year 2026
+> 🏆 1,215 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3924 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-🌆 Daytime                7539 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌃 Evening                5680 commits        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌞 Morning                3922 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌆 Daytime                7546 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌃 Evening                5685 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   31.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   2576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 Tuesday                  2642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Wednesday                5081 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Thursday                 8545 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Friday                   3924 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                5077 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Thursday                 8545 commits        ████████░░░░░░░░░░░░░░░░░   33.90 % 
+Friday                   3936 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 Saturday                 1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   567 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Sunday                   569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 
@@ -128,50 +128,50 @@ Sunday                   567 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.47 % 
-Python                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Bash                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript               3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
+Markdown                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Python                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       ██████████████░░░░░░░░░░░   57.91 % 
-Claude Code              2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Codex Vscode             58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+VS Code                  5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.08 % 
+Claude Code              3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.58 % 
+Codex Vscode             1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 🐱‍💻 Projects: 
-note-app                 2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
-dotfiles                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-week03                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-performance-improvement  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-analysis                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+note-app                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+1on2-reserve             1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+week03                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+ramen-api                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+performance-improvement  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 💻 Operating System: 
-Mac                      8 hrs               █████████████████████████   100.00 % 
+Mac                      10 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (46.43%)
+⏱ AI Coding Time: 5 hrs 23 mins (53.74%)
 
-✍️ 2,976 lines written by AI, 390 lines written by hand (88.41% AI-written)
+✍️ 4,061 lines written by AI, 453 lines written by hand (89.96% AI-written)
 
-🔤 1,991,922 Input Tokens, 401,645 Output Tokens
+🔤 2,414,334 Input Tokens, 564,553 Output Tokens
 
-💵 $28.26 Estimated AI Cost This Week
+💵 $36.07 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 71 AI Prompts
+🧠 21 AI Sessions, 120 AI Prompts
 
-Opus                     2,331 lines         ████████████████████░░░░░   78.30 % 
-GPT                      646 lines           █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Opus                     3,503 lines         █████████████████████░░░░   84.43 % 
+GPT                      646 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.41% of written lines came from AI
-📝 Concise Prompter — average 358 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 25.89% of changed lines were hand-edited
+🤖 AI-Driven — 89.96% of written lines came from AI
+📝 Concise Prompter — average 418 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 21.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,7 +191,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 19:08:31 UTC
+ Last Updated on 16/10/2026 18:51:19 UTC
 <!--END_SECTION:waka-->
 
 ---
