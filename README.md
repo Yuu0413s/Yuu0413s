@@ -83,9 +83,9 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -93,7 +93,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,215 Contributions in the Year 2026
+> 🏆 1,216 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,8 +106,8 @@
 ```text
 🌞 Morning                4064 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 🌆 Daytime                7546 commits        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-🌃 Evening                5685 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌃 Evening                5686 commits        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -115,7 +115,7 @@
 Monday                   2576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 Tuesday                  2675 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 Wednesday                5186 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Thursday                 8545 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Thursday                 8546 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
 Friday                   3936 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 Saturday                 1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 Sunday                   569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
@@ -190,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 19:21:19 UTC
+ Last Updated on 22/10/2026 10:28:15 UTC
 <!--END_SECTION:waka-->
 
 ---
