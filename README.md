@@ -128,49 +128,49 @@ Sunday                   575 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
-Markdown                 3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TypeScript               3 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.83 % 
+Markdown                 3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 23 mins       ██████████████████████░░░   86.52 % 
-Codex Vscode             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-VS Code                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Claude Code              7 hrs 50 mins       ██████████████████████░░░   87.17 % 
+Codex Vscode             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🐱‍💻 Projects: 
-aix-hub                  5 hrs 40 mins       ███████████████░░░░░░░░░░   58.57 % 
-1on2-reserve             2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-week03                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-week04                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-github_practice_2026     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+aix-hub                  5 hrs 40 mins       ████████████████░░░░░░░░░   63.04 % 
+1on2-reserve             2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+week04                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+github_practice_2026     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+bigcomp2027-LaTeX-en-temp9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 20 mins (96.39%)
+⏱ AI Coding Time: 8 hrs 48 mins (97.79%)
 
-✍️ 7,950 lines written by AI, 140 lines written by hand (98.27% AI-written)
+✍️ 7,199 lines written by AI, 140 lines written by hand (98.09% AI-written)
 
-🔤 2,963,960 Input Tokens, 789,797 Output Tokens
+🔤 2,804,594 Input Tokens, 753,572 Output Tokens
 
-💵 $55.65 Estimated AI Cost This Week
+💵 $53.76 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 180 AI Prompts
+🧠 26 AI Sessions, 173 AI Prompts
 
-Opus                     8,051 lines         █████████████████████████   100.00 % 
+Opus                     7,300 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.27% of written lines came from AI
-📚 Verbose Prompter — average 1,528 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.81% of changed lines were hand-edited
+🤖 AI-Driven — 98.09% of written lines came from AI
+📚 Verbose Prompter — average 1,587 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +190,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 18:08:24 UTC
+ Last Updated on 25/10/2026 18:24:13 UTC
 <!--END_SECTION:waka-->
 
 ---
