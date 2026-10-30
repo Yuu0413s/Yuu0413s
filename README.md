@@ -93,7 +93,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,301 Contributions in the Year 2026
+> 🏆 1,313 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4119 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-🌆 Daytime                7642 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-🌃 Evening                5809 commits        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌞 Morning                4160 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+🌆 Daytime                7683 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                5855 commits        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌙 Night                  8055 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Tuesday                  2687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Wednesday                5205 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 8638 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-Friday                   4080 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Saturday                 1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Sunday                   576 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Monday                   2576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  2691 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Wednesday                5213 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Thursday                 8672 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Friday                   4160 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Sunday                   578 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 
 
@@ -128,50 +128,50 @@ Sunday                   576 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
-Python                   4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-TypeScript               3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown                 5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+Python                   4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+TypeScript               1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 47 mins      ████████████████████░░░░░   79.01 % 
-VS Code                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Codex Vscode             1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Claude Code              10 hrs 55 mins      ████████████████████░░░░░   78.53 % 
+VS Code                  2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Codex Vscode             54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-mid_assign               7 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.06 % 
-aix-hub                  6 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.73 % 
-専門デプロイメントⅢ             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-専門デプロイメントⅢ               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-sqlite_practice          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+mid_assign               7 hrs 8 mins        █████████████░░░░░░░░░░░░   51.31 % 
+aix-hub                  4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
+専門デプロイメントⅢ             48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+専門デプロイメントⅢ               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+sqlite_practice          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Mac                      16 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 55 mins (98.35%)
+⏱ AI Coding Time: 13 hrs 38 mins (98.08%)
 
-✍️ 11,118 lines written by AI, 114 lines written by hand (98.99% AI-written)
+✍️ 10,783 lines written by AI, 114 lines written by hand (98.95% AI-written)
 
-🔤 5,459,726 Input Tokens, 1,338,111 Output Tokens
+🔤 5,192,774 Input Tokens, 1,118,763 Output Tokens
 
-💵 $95.07 Estimated AI Cost This Week
+💵 $81.44 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 328 AI Prompts
+🧠 25 AI Sessions, 279 AI Prompts
 
-Opus                     11,507 lines        █████████████████████████   100.00 % 
+Opus                     11,133 lines        █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📚 Verbose Prompter — average 1,993 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.23% of changed lines were hand-edited
+🤖 AI-Driven — 98.95% of written lines came from AI
+📚 Verbose Prompter — average 1,987 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 2.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,7 +191,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 20:18:38 UTC
+ Last Updated on 30/10/2026 20:04:22 UTC
 <!--END_SECTION:waka-->
 
 ---
