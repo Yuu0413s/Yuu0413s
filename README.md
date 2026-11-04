@@ -83,13 +83,17 @@
 ## ⏱️ 今週のコーディング統計
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2049%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,333 Contributions in the Year 2026
+> 🏆 1,334 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +105,7 @@
 
 ```text
 🌞 Morning                4203 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-🌆 Daytime                7750 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌆 Daytime                7751 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
 🌃 Evening                5963 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
 🌙 Night                  8056 commits        ████████░░░░░░░░░░░░░░░░░   31.02 % 
 ```
@@ -110,8 +114,8 @@
 ```text
 Monday                   2576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 Tuesday                  2691 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Wednesday                5214 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 8723 commits        ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Wednesday                5215 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 8723 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
 Friday                   4294 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 Saturday                 1885 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 Sunday                   589 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
@@ -173,11 +177,11 @@ GPT                      78 lines            ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TeX                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               17 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+TeX                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
@@ -187,7 +191,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2026 21:02:21 UTC
+ Last Updated on 04/11/2026 21:19:32 UTC
 <!--END_SECTION:waka-->
 
 ---
