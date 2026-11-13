@@ -93,7 +93,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,383 Contributions in the Year 2026
+> 🏆 1,396 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,21 +104,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4353 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-🌆 Daytime                7922 commits        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌃 Evening                6119 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-🌙 Night                  8056 commits        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+🌞 Morning                4416 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌆 Daytime                8023 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌃 Evening                6212 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌙 Night                  8057 commits        ████████░░░░░░░░░░░░░░░░░   30.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Tuesday                  2723 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Wednesday                5316 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Thursday                 8791 commits        ████████░░░░░░░░░░░░░░░░░   33.24 % 
-Friday                   4495 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Saturday                 1940 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Sunday                   609 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Monday                   2576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  2737 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Wednesday                5365 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Thursday                 8825 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Friday                   4617 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Saturday                 1969 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Sunday                   619 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 
@@ -128,49 +128,49 @@ Sunday                   609 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
-Markdown                 3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-CSV                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+TypeScript               5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.18 % 
+Markdown                 2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+CSV                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 27 mins       █████████████████████░░░░   82.76 % 
-VS Code                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Codex Vscode             45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Claude Code              9 hrs 19 mins       ████████████████████░░░░░   79.74 % 
+VS Code                  1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Codex Vscode             1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🐱‍💻 Projects: 
-aix-hub                  8 hrs 25 mins       ██████████████████░░░░░░░   73.70 % 
-2622063-Scraping-task    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-yuu0413                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-paper                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-専門デプロイメントⅢ               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+aix-hub                  8 hrs 4 mins        █████████████████░░░░░░░░   69.08 % 
+yuu0413                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+2622063-Scraping-task    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+paper                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+専門デプロイメントⅢ               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
-Mac                      11 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 18 mins (90.25%)
+⏱ AI Coding Time: 10 hrs 40 mins (91.34%)
 
-✍️ 8,549 lines written by AI, 3,641 lines written by hand (70.13% AI-written)
+✍️ 7,307 lines written by AI, 3,641 lines written by hand (66.74% AI-written)
 
-🔤 5,600,702 Input Tokens, 905,756 Output Tokens
+🔤 5,765,475 Input Tokens, 876,357 Output Tokens
 
-💵 $73.00 Estimated AI Cost This Week
+💵 $74.05 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 206 AI Prompts
+🧠 67 AI Sessions, 273 AI Prompts
 
-Opus                     8,588 lines         █████████████████████████   99.48 % 
-GPT                      45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Opus                     7,420 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.13% of written lines came from AI
-📚 Verbose Prompter — average 3,168 characters per prompt
+🤖 AI-Driven — 66.74% of written lines came from AI
+📚 Verbose Prompter — average 1,863 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 29.68% of changed lines were hand-edited
+🚀 High AI Trust — 32.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +190,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 21:58:07 UTC
+ Last Updated on 13/11/2026 21:28:53 UTC
 <!--END_SECTION:waka-->
 
 ---
