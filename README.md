@@ -87,7 +87,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,19 +104,19 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4834 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-🌆 Daytime                8482 commits        ████████░░░░░░░░░░░░░░░░░   30.12 % 
+🌞 Morning                4840 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+🌆 Daytime                8482 commits        ████████░░░░░░░░░░░░░░░░░   30.11 % 
 🌃 Evening                6750 commits        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
 🌙 Night                  8094 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2750 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Tuesday                  2816 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Wednesday                5561 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Thursday                 8962 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
-Friday                   5110 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Monday                   2750 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Tuesday                  2818 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                5565 commits        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Thursday                 8962 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Friday                   5110 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 Saturday                 2271 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 Sunday                   690 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
@@ -128,49 +128,49 @@ Sunday                   690 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 6 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.52 % 
-TypeScript               4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Markdown                 6 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.97 % 
+TypeScript               4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 14 mins      ████████████████████░░░░░   78.85 % 
-Codex Vscode             1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-VS Code                  1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Claude Code              11 hrs 5 mins       ████████████████████░░░░░   78.62 % 
+Codex Vscode             1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+VS Code                  1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-aix-hub                  9 hrs 18 mins       ████████████████░░░░░░░░░   65.28 % 
-yuu0413                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-github_practice_2026     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-paper                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-skills                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+aix-hub                  9 hrs 18 mins       ████████████████░░░░░░░░░   65.97 % 
+yuu0413                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+github_practice_2026     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+paper                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+skills                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Mac                      14 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 28 mins (94.49%)
+⏱ AI Coding Time: 13 hrs 19 mins (94.43%)
 
-✍️ 8,024 lines written by AI, 26 lines written by hand (99.68% AI-written)
+✍️ 7,955 lines written by AI, 26 lines written by hand (99.67% AI-written)
 
-🔤 7,524,922 Input Tokens, 1,529,381 Output Tokens
+🔤 7,464,565 Input Tokens, 1,511,648 Output Tokens
 
-💵 $108.90 Estimated AI Cost This Week
+💵 $107.97 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 374 AI Prompts
+🧠 107 AI Sessions, 369 AI Prompts
 
-Opus                     8,541 lines         █████████████████████████   100.00 % 
+Opus                     8,414 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📄 Detailed Prompter — average 1,398 characters per prompt
+🤖 AI-Driven — 99.67% of written lines came from AI
+📄 Detailed Prompter — average 1,416 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
@@ -192,7 +192,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Yuu0413s/Yuu0413s/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 22:42:50 UTC
+ Last Updated on 19/11/2026 22:48:18 UTC
 <!--END_SECTION:waka-->
 
 ---
