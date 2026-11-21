@@ -1,16 +1,16 @@
 # Yuu0413s (ゆう) 👋
 
-> エンジニア志望 | データサイエンス × より幸せな人生
-
 ## 🧑‍💻 About
 
-武蔵野大学 データサイエンス学部の 3 年生です。
-データ分析と Web 開発を軸に、ユーザーの QOL を上げるシステムづくりを目指しています。
+人生をより豊かに、楽しくするために色々開発しています
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,prisma,postgresql,workers,nextjs,react,vercel,supabase,git,github,unity,latex&theme=dark" alt="Tech stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,prisma,postgresql,workers,nextjs,react,vercel,supabase,git,github,unity,latex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,prisma,postgresql,workers,nextjs,react,vercel,supabase,git,github,unity,latex&theme=light" alt="Tech stack" />
+  </picture>
 </p>
 
 ## 🚀 Highlights
@@ -32,25 +32,18 @@
 - 💼 株式会社A.I Consulting：バックエンドエンジニアインターン
 - 👨‍🏫 株式会社LITALICO ワンダー事業部：プログラミング教室講師
 
-## ⏱️ Coding Stats
+## 📊 Stats
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2014%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.92 % 
-TypeScript               3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-TeX                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-```
-
-
- Last Updated on 21/11/2026 01:34:03 UTC
-<!--END_SECTION:waka-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+    <img height="170" src="profile/stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/wakatime-dark.svg" />
+    <img height="170" src="profile/wakatime-light.svg" alt="WakaTime stats" />
+  </picture>
+</p>
 
 ## 📫 Links
 
