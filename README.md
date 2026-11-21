@@ -15,12 +15,22 @@
 
 ## 🚀 Highlights
 
+### Hackathon
+
 - 🏆 MUDS 学内ハッカソン 審査員賞 ×2（お財布平和条約 / 先輩後輩マッチング Slack Bot）
 - 🤖 Microsoft Agentic Hackathon：業務改善・効率化のための AI エージェントシステムを開発
 - 🍚 know-your-meals（MUDS 第3回学内ハッカソン）：美味しかったご飯を写真付きで共有する SNS を開発
-- 💪 MyFitCoach（技育Camp 2025 Vol.8）：ユーザーの目的に合わせてパーソナライズされたトレーニングメニューを提供するサポートアプリ
-- 🔬 DEIM2026 研究発表「クロノタイプと集中傾向に基づくスケジューリング最適化」
-- 💼 株式会社A.I Consulting バックエンドエンジニアインターン
+- 💪 MyFitCoach（技育CAMP 2025 Vol.8）：目的に合わせたトレーニングメニューを提案するアプリを開発
+
+### Conference
+
+- 🔬 DEIM2026：研究発表「クロノタイプと集中傾向に基づくスケジューリング最適化」
+
+### Experience
+
+- 🖥️ 株式会社マイクロニティ：情報セキュリティ室 AI推進G AIビルダー（エンジニア）
+- 💼 株式会社A.I Consulting：バックエンドエンジニアインターン
+- 👨‍🏫 株式会社LITALICO ワンダー事業部：プログラミング教室講師
 
 ## ⏱️ Coding Stats
 
@@ -44,4 +54,4 @@ HTML                     32 mins             █░░░░░░░░░░�
 
 ## 📫 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-178FB0?style=for-the-badge&logo=safari&logoColor=white)](https://yuu0413.com)　[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yuu0413_s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-178FB0?style=for-the-badge&logo=safari&logoColor=white)](https://yuu0413.com)　[![Twitter](assets/twitter-badge.svg)](https://x.com/Yuu0413_s)
