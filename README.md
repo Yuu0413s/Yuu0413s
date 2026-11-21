@@ -8,8 +8,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,prisma,postgresql,workers,nextjs,react,vercel,supabase,git,github,unity,latex&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,prisma,postgresql,workers,nextjs,react,vercel,supabase,git,github,unity,latex&theme=light" alt="Tech stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ctypescript%2Cjavascript%2Cnodejs%2Cprisma%2Cpostgresql%2Cworkers%2Cnextjs%2Creact%2Cvercel%2Csupabase%2Cgit%2Cgithub%2Cunity%2Clatex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python%2Ctypescript%2Cjavascript%2Cnodejs%2Cprisma%2Cpostgresql%2Cworkers%2Cnextjs%2Creact%2Cvercel%2Csupabase%2Cgit%2Cgithub%2Cunity%2Clatex&theme=light" alt="Tech stack" />
   </picture>
 </p>
 
