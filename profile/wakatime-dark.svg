@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="165"
+        viewBox="0 0 495 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -138,7 +138,17 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="264.07349999999997"
+            width="380.3235000000001"
+            height="8"
+            fill="#3572A5"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="380.3235000000001"
+            y="0"
+            width="41.29200000000001"
             height="8"
             fill="#cb171e"
           />
@@ -146,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="264.07349999999997"
+            x="421.6155000000001"
             y="0"
-            width="162.33149999999998"
+            width="28.969500000000004"
             height="8"
             fill="#e34c26"
           />
@@ -156,29 +166,53 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.405"
+            x="450.5850000000001"
             y="0"
-            width="38.316"
+            width="7.997999999999999"
+            height="8"
+            fill="#F44D27"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="458.5830000000001"
+            y="0"
+            width="5.9985"
             height="8"
             fill="#858585"
           />
         
       
     <g transform="translate(25, 25)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python - 1 hr 34 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         YAML - 10 mins
       </text>
     </g>
   
-    <g transform="translate(230, 25)">
+    <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 6 mins
+        HTML - 7 mins
       </text>
     </g>
   
-    <g transform="translate(25, 50)">
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#F44D27" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Git Config - 1 min
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Image (svg) - 1 min
